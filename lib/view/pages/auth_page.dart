@@ -54,7 +54,7 @@ class AuthPage extends StatelessWidget {
                 MainButton(
                   color: AppColors.brown.withOpacity(0.7),
                   child: Text(
-                    "Play Offline",
+                    "Play As a Guest",
                     style: Theme.of(context).textTheme.bodyMedium!.copyWith(
                           fontWeight: FontWeight.bold,
                         ),
